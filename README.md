@@ -721,18 +721,18 @@
       🎨
      </div>
      <h3>Создание AI-визуалов</h3>
-     <p>Уникальные изо��ражения и графика, созданные с помощь�� ��ейросетей</p>
+     <p>Уникальные изображения и графика, созданные с помощью нейросетей</p>
     </div>
     <div class="service-card">
      <div class="service-icon">
-      ✍️
+      📝
      </div>
      <h3>Генерация текстов</h3>
-     <p>Качественный контент для ва��их проектов и социальных сетей</p>
+     <p>Качественный контент для ваших проектов и социальных сетей</p>
     </div>
     <div class="service-card">
      <div class="service-icon">
-      ⚙️
+      💻
      </div>
      <h3>Создание мини-программ</h3>
      <p>Автоматизация процессов и разработка полезных инструментов</p>
@@ -741,7 +741,7 @@
      <div class="service-icon">
       🤖
      </div>
-     <h3>Р��зработка Telegram-ботов</h3>
+     <h3>Разработка Telegram-ботов</h3>
      <p>Умные боты для автоматизации бизнеса и общения</p>
     </div>
    </div>
@@ -751,11 +751,11 @@
    <div class="portfolio-grid">
     <div class="portfolio-item">
      <div class="portfolio-image">
-      🎭
+      🎨
      </div>
      <div class="portfolio-content">
       <h3>AI-визуалы для соцсетей</h3>
-      <p>Се��и������ уникальных изображений для Instagram и других платформ</p>
+      <p>Серия уникальных изображений для Instagram и других платформ</p>
      </div>
     </div>
     <div class="portfolio-item">
@@ -764,7 +764,7 @@
      </div>
      <div class="portfolio-content">
       <h3>Telegram-бот поддержки</h3>
-      <p>Автоматизированная система обработк�� запросов клиентов</p>
+      <p>Автоматизированная система обработки запросов клиентов</p>
      </div>
     </div>
     <div class="portfolio-item">
@@ -773,7 +773,7 @@
      </div>
      <div class="portfolio-content">
       <h3>Мини-приложение аналитики</h3>
-      <p>Инструмент для анализа данных и визуализации резул��татов</p>
+      <p>Инструмент для анализа данных и визуализации результатов</p>
      </div>
     </div>
     <div class="portfolio-item">
@@ -804,15 +804,15 @@
     </div>
     <div class="order-form" id="orderForm">
      <h3 style="margin: 0 0 32px 0; color: #ffffff; font-size: 28px; text-align: center;">Заказать проект</h3>
-     <div style="margin-bottom: 24px;"><label for="clientName" style="display: block; margin-bottom: 8px; color: #d1d5db; font-size: 14px; font-weight: 500;">Ваше им��</label> <input type="text" id="clientName" placeholder="Как к вам обращаться?" style="width: 100%; padding: 14px 16px; background: rgba(255, 255, 255, 0.05); border: 1px solid rgba(99, 102, 241, 0.3); border-radius: 8px; color: #ffffff; font-size: 16px; font-family: inherit;">
+     <div style="margin-bottom: 24px;"><label for="clientName" style="display: block; margin-bottom: 8px; color: #d1d5db; font-size: 14px; font-weight: 500;">Ваше имя</label> <input type="text" id="clientName" placeholder="Как к вам обращаться?" style="width: 100%; padding: 14px 16px; background: rgba(255, 255, 255, 0.05); border: 1px solid rgba(99, 102, 241, 0.3); border-radius: 8px; color: #ffffff; font-size: 16px; font-family: inherit;">
      </div>
-     <div style="margin-bottom: 24px;"><label style="display: block; margin-bottom: 8px; color: #d1d5db; font-size: 14px; font-weight: 500;">Тип проекта</label> <select id="projectType" style="width: 100%; padding: 14px 16px; background: rgba(255, 255, 255, 0.05); border: 1px solid rgba(99, 102, 241, 0.3); border-radius: 8px; color: #ffffff; font-size: 16px; font-family: inherit; cursor: pointer;"> <option value="">Выберите тип пр����екта</option> <option value="AI-визуалы">🎨 AI-визуалы</option> <option value="Генерация текс��ов">✍️ Генерация текстов</option> <option value="Мини-программа">⚙️ Мини-программа</option> <option value="Telegram-бот">🤖 Telegram-бот</option> <option value="Комплексный проект">💼 Комплексный проект</option> <option value="Другое">💡 Другое</option> </select>
+     <div style="margin-bottom: 24px;"><label style="display: block; margin-bottom: 8px; color: #d1d5db; font-size: 14px; font-weight: 500;">Тип проекта</label> <select id="projectType" style="width: 100%; padding: 14px 16px; background: rgba(255, 255, 255, 0.05); border: 1px solid rgba(99, 102, 241, 0.3); border-radius: 8px; color: #ffffff; font-size: 16px; font-family: inherit; cursor: pointer;"> <option value="">Выберите тип проекта</option> <option value="AI-визуалы">🎨 AI-визуалы</option> <option value="Генерация текстов">📝 Генерация текстов</option> <option value="Мини-программа">💻 Мини-программа</option> <option value="Telegram-бот">🤖 Telegram-бот</option> <option value="Комплексный проект">💼 Комплексный проект</option> <option value="Другое">💡 Другое</option> </select>
      </div>
-     <div style="margin-bottom: 24px;"><label for="projectDescription" style="display: block; margin-bottom: 8px; color: #d1d5db; font-size: 14px; font-weight: 500;">Описание проекта</label> <textarea id="projectDescription" rows="5" placeholder="Расск��жите подробнее о ��ашем пр��екте, задачах и желаем��м результате..." style="width: 100%; padding: 14px 16px; background: rgba(255, 255, 255, 0.05); border: 1px solid rgba(99, 102, 241, 0.3); border-radius: 8px; color: #ffffff; font-size: 16px; font-family: inherit; resize: vertical; line-height: 1.5;"></textarea>
+     <div style="margin-bottom: 24px;"><label for="projectDescription" style="display: block; margin-bottom: 8px; color: #d1d5db; font-size: 14px; font-weight: 500;">Описание проекта</label> <textarea id="projectDescription" rows="5" placeholder="Расскажите подробнее о вашем проекте, задачах и желаемом результате..." style="width: 100%; padding: 14px 16px; background: rgba(255, 255, 255, 0.05); border: 1px solid rgba(99, 102, 241, 0.3); border-radius: 8px; color: #ffffff; font-size: 16px; font-family: inherit; resize: vertical; line-height: 1.5;"></textarea>
      </div>
-     <div style="margin-bottom: 24px;"><label style="display: block; margin-bottom: 8px; color: #d1d5db; font-size: 14px; font-weight: 500;">Сроки выполнения</label> <select id="projectDeadline" style="width: 100%; padding: 14px 16px; background: rgba(255, 255, 255, 0.05); border: 1px solid rgba(99, 102, 241, 0.3); border-radius: 8px; color: #ffffff; font-size: 16px; font-family: inherit; cursor: pointer;"> <option value="">Выберите желаемые сроки</option> <option value="Срочно (1-3 ��ня)">⚡ Срочно (1-3 дня)</option> <option value="Быстро (3-7 дней)">🚀 Быстро (3-7 дней)</option> <option value="Стандартно (1-2 недели)">�� Стандартно (1-2 недели)</option> <option value="Не срочно (2-4 недели)">⏰ Не срочно (2-4 недели)</option> <option value="Обсудим">💬 Обсудим</option> </select>
+     <div style="margin-bottom: 24px;"><label style="display: block; margin-bottom: 8px; color: #d1d5db; font-size: 14px; font-weight: 500;">Сроки выполнения</label> <select id="projectDeadline" style="width: 100%; padding: 14px 16px; background: rgba(255, 255, 255, 0.05); border: 1px solid rgba(99, 102, 241, 0.3); border-radius: 8px; color: #ffffff; font-size: 16px; font-family: inherit; cursor: pointer;"> <option value="">Выберите желаемые сроки</option> <option value="Срочно (1-3 дня)">⚡ Срочно (1-3 дня)</option> <option value="Быстро (3-7 дней)">🚀 Быстро (3-7 дней)</option> <option value="Стандартно (1-2 недели)">📅 Стандартно (1-2 недели)</option> <option value="Не срочно (2-4 недели)">⏰ Не срочно (2-4 недели)</option> <option value="Обсудим">💬 Обсудим</option> </select>
      </div>
-     <div style="margin-bottom: 24px;"><label style="display: block; margin-bottom: 8px; color: #d1d5db; font-size: 14px; font-weight: 500;">Бюджет проекта</label> <select id="projectBudget" style="width: 100%; padding: 14px 16px; background: rgba(255, 255, 255, 0.05); border: 1px solid rgba(99, 102, 241, 0.3); border-radius: 8px; color: #ffffff; font-size: 16px; font-family: inherit; cursor: pointer;"> <option value="">Выберите примерный б���джет</option> <option value="До 5000₽">💰 До 5000₽</option> <option value="5000-15000₽">💵 5000-15000₽</option> <option value="15000-30000₽">💸 15000-30000₽</option> <option value="30000-50000₽">💎 30000-50000₽</option> <option value="Свыше 50000₽">👑 Свыше 50000₽</option> <option value="Обсудим">💬 Обсудим</option> </select>
+     <div style="margin-bottom: 24px;"><label style="display: block; margin-bottom: 8px; color: #d1d5db; font-size: 14px; font-weight: 500;">Бюджет проекта</label> <select id="projectBudget" style="width: 100%; padding: 14px 16px; background: rgba(255, 255, 255, 0.05); border: 1px solid rgba(99, 102, 241, 0.3); border-radius: 8px; color: #ffffff; font-size: 16px; font-family: inherit; cursor: pointer;"> <option value="">Выберите примерный бюджет</option> <option value="До 5000₽">💰 До 5000₽</option> <option value="5000-15000₽">💵 5000-15000₽</option> <option value="15000-30000₽">💸 15000-30000₽</option> <option value="30000-50000₽">💎 30000-50000₽</option> <option value="Свыше 50000₽">👑 Свыше 50000₽</option> <option value="Обсудим">💬 Обсудим</option> </select>
      </div>
      <div style="margin-bottom: 32px; padding: 20px; background: rgba(99, 102, 241, 0.1); border: 1px solid rgba(99, 102, 241, 0.3); border-radius: 8px;"><label style="display: block; margin-bottom: 12px; color: #ffffff; font-size: 16px; font-weight: 600;">Способ связи:</label>
       <div style="display: flex; gap: 12px; flex-wrap: wrap;"><button class="method-button active" data-method="telegram" onclick="selectMethod('telegram')"> 📱 Telegram </button> <button class="method-button" data-method="email" onclick="selectMethod('email')"> 📧 Email </button>
@@ -826,7 +826,7 @@
       hero_title: "RRNCLUB",
       hero_subtitle: "Создаю визуалы, тексты и мини-программы на базе ИИ",
       about_title: "Обо мне",
-      about_description: "Я создаю проекты с использованием искусственного интеллекта: визуа���ы, текстовые материалы, автоматизации и мини-приложения, включая Telegram-ботов",
+      about_description: "Я создаю проекты с использованием искусственного интеллекта: визуалы, текстовые материалы, автоматизации и мини-приложения, включая Telegram-ботов",
       services_title: "Услуги",
       portfolio_title: "Портфолио",
       contact_title: "Контакты",
@@ -913,7 +913,7 @@
       const budget = document.getElementById('projectBudget').value;
       
       if (!description) {
-        showNotification('Пожалуйста, опи��ите ваш проект');
+        showNotification('Пожалуйста, опишите ваш проект');
         return;
       }
       
@@ -947,7 +947,7 @@
         window.location.href = mailtoUrl;
       }
       
-      showNotification('Переход к выбранному способу св��зи...');
+      showNotification('Переход к выбранному способу связи...');
       
       document.getElementById('clientName').value = '';
       document.getElementById('projectType').value = '';
@@ -1218,5 +1218,5 @@
       }
     }
   </script>
- <script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9a2f80fa200c2d36',t:'MTc2Mzg4ODcxNi4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+ <script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9a2f9127f57dfe93',t:'MTc2Mzg4OTM3OC4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
 </html>
